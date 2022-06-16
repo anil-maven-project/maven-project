@@ -1,3 +1,3 @@
 FROM tomcat:8.0.20-jre8
-COPY target/maven-web-app*.war /var/lib/jenkins/workspace/new-integration/maven-web-application.war
-ENTRYPOINT ["java","-war","/maven-web-application.war"]
+COPY target/maven-web-application.jar maven-web-application.jar
+ENTRYPOINT ["java","-jar","/maven-web-application.jar"]
