@@ -97,12 +97,12 @@
     <repository>
         <id>cmVmdGtuOjAxOjE3MTkxMzcwMjY6OVo3bHU0YThpZDRFQ1VueFE5cURZa2U4ZmZO</id>
         <name>mavenweapp</name>
-        <url>https://anilartifactory.com/artifactory/anil-repo-maven/</url>
+        <url>https://http://13.127.180.243:8082/artifactory/anil-repo-maven/</url>
     </repository>
     <snapshotRepository>
         <id>cmVmdGtuOjAxOjE3MTkxMzcwMjY6OVo3bHU0YThpZDRFQ1VueFE5cURZa2U4ZmZO</id>
         <name>maven snapshot</name>
-        <url>https://anilartifactory.com/artifactory/anil-repo-maven/</url>
+        <url>https://http://13.127.180.243:8082/artifactory/anil-repo-maven/</url>
     </snapshotRepository>
 </distributionManagement>
 	
