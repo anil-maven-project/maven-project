@@ -86,7 +86,7 @@
 
 		<dependency>
 			<groupId>javax.servlet</groupId>
-			<artifactId>maven-web-appliction</artifactId>
+			<artifactId>cmVmdGtuOjAxOjE3MjEwNDEzNzM6TXpwa0p3VmczZjVST2RBVFlrWTc4WlBuQ3NR</artifactId>
 			<version>3.1.0</version>
 			<scope>provided</scope>
 		</dependency>
