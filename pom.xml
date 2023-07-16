@@ -101,7 +101,7 @@
    		</repository>
     		<snapshotRepository>
         		<id>cmVmdGtuOjAxOjE3MjEwNDEzNzM6TXpwa0p3VmczZjVST2RBVFlrWTc4WlBuQ3NR</id>
-        		<name>>maven-web-aplication-snapshots</name>
+        		<name>maven-web-aplication-snapshots</name>
         		<url>http://13.127.180.243:8082/anil-repo-maven</url>
     		</snapshotRepository>
 	</distributionManagement>
