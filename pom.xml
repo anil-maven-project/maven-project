@@ -97,12 +97,12 @@
     		<repository>
         		<id>maven-web-application</id>
         		<name>maven-web-aplication-releases</name>
-        		<url>http://13.127.180.243:8082/anil-repo-maven</url>
+        		<url>http://13.127.180.243:8082/anil-repo-maven/release/</url>
    		</repository>
     		<snapshotRepository>
         		<id>maven-web-application</id>
         		<name>maven-web-aplication-snapshots</name>
-        		<url>http://13.127.180.243:8082/anil-repo-maven/snapshot</url>
+        		<url>http://13.127.180.243:8082/anil-repo-maven/snapshot/</url>
     		</snapshotRepository>
 	</distributionManagement>
 	
