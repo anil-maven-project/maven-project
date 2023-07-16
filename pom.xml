@@ -94,19 +94,16 @@
 	</dependencies>
 	
 	<distributionManagement>
-	
-	    <repository>
-	      <id>artifcatory</id>
-	      <name>anil</name>
-	      <url>http://13.127.180.243:8082/repository/anil-repo-maven/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>artifactory</id>
-	      <name>nail</name>
-	      <url>http://13.127.180.243:8082/repository/anil-repo-maven/</url>
-	    </snapshotRepository>
-	    
+    		<repository>
+        		<id>central</id>
+        		<name>e64dfe1407d2-releases</name>
+        		<url>https://anilartifactory.com/artifactory/anil-repo-maven</url>
+   		</repository>
+    		<snapshotRepository>
+        		<id>snapshots</id>
+        		<name>e64dfe1407d2-snapshots</name>
+        		<url>https://anilartifactory.com/artifactory/anil-repo-maven</url>
+    		</snapshotRepository>
 	</distributionManagement>
 	
 	<build>
