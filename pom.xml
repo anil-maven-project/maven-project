@@ -95,12 +95,12 @@
 	
 <distributionManagement>
     <repository>
-        <id>cmVmdGtuOjAxOjE3MTkxMzcwMjY6OVo3bHU0YThpZDRFQ1VueFE5cURZa2U4ZmZO</id>
+        <id>cmVmdGtuOjAxOjE3MjEwMzg2MDE6bE81ekhydzVHWG42VUtOODBTTTJvTXE2UTFK</id>
         <name>mavenweapp</name>
         <url>https://http://13.127.180.243:8082/artifactory/anil-repo-maven/</url>
     </repository>
     <snapshotRepository>
-        <id>cmVmdGtuOjAxOjE3MTkxMzcwMjY6OVo3bHU0YThpZDRFQ1VueFE5cURZa2U4ZmZO</id>
+        <id>cmVmdGtuOjAxOjE3MjEwMzg2MDE6bE81ekhydzVHWG42VUtOODBTTTJvTXE2UTFK</id>
         <name>maven snapshot</name>
         <url>https://http://13.127.180.243:8082/artifactory/anil-repo-maven/</url>
     </snapshotRepository>
