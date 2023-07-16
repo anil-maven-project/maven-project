@@ -97,12 +97,12 @@
     		<repository>
         		<id>central</id>
         		<name>e64dfe1407d2-releases</name>
-        		<url>https://http://13.127.180.243:8082/artifactory/anil-repo-maven</url>
+        		<url>https://13.127.180.243:8082/artifactory/anil-repo-maven</url>
    		</repository>
     		<snapshotRepository>
         		<id>snapshots</id>
         		<name>e64dfe1407d2-snapshots</name>
-        		<url>https://http://13.127.180.243:8082/artifactory/anil-repo-maven</url>
+        		<url>https://13.127.180.243:8082/artifactory/anil-repo-maven</url>
     		</snapshotRepository>
 	</distributionManagement>
 	
