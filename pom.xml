@@ -96,13 +96,13 @@
 	<distributionManagement>
     		<repository>
         		<id>central</id>
-        		<name>e64dfe1407d2-releases</name>
-        		<url>13.127.180.243:8082/anil-repo-maven</url>
+        		<name>maven-web-aplication-releases</name>
+        		<url>http://13.127.180.243:8082/anil-repo-maven</url>
    		</repository>
     		<snapshotRepository>
         		<id>snapshots</id>
-        		<name>e64dfe1407d2-snapshots</name>
-        		<url>13.127.180.243:8082/anil-repo-maven</url>
+        		<name>>maven-web-aplication-snapshots</name>
+        		<url>http://13.127.180.243:8082/anil-repo-maven</url>
     		</snapshotRepository>
 	</distributionManagement>
 	
